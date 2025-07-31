@@ -1,9 +1,0 @@
-name: get_data
-
-conda_env: conda.yml
-entry_points:
-  main:
-    parameters:
-      output_artifact: {type: str}
-    command: >
-      python get_data.py --output_artifact {output_artifact}
