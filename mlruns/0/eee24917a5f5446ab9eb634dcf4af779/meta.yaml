@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/janbu/PycharmProjects/EnergyConsumptionProject/mlruns/0/eee24917a5f5446ab9eb634dcf4af779/artifacts
+end_time: 1753962753852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eee24917a5f5446ab9eb634dcf4af779
+run_name: amazing-horse-25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753962750520
+status: 4
+tags: []
+user_id: janbu

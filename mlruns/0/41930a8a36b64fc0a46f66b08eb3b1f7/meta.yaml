@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/janbu/PycharmProjects/EnergyConsumptionProject/mlruns/0/41930a8a36b64fc0a46f66b08eb3b1f7/artifacts
+end_time: 1753962178720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41930a8a36b64fc0a46f66b08eb3b1f7
+run_name: calm-hound-537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753962125766
+status: 4
+tags: []
+user_id: janbu
